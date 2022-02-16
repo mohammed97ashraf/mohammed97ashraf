@@ -1,9 +1,13 @@
 <h1 align="center">Hi,I'm Ashraf !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center" ><i>A fullStack Data Scientists from India</i></h3>
 
+
 - 🔭 I’m currently working on my own **Agritech** Project
+
 - 🌱 I’m currently learning **PyTorch | QGIS | GeoServer**
+
 - 💬 Ask me about **Python | Machine Learning | NLP | Web Scraping**
+
 - 📫 How to reach me: **Mohammed97ashraf@gmail.com**
 
 
