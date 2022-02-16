@@ -2,7 +2,7 @@
 <h3 align="center" ><i>A fullStack Data Scientists from India</i></h3>
 
 
-- 🔭 I’m currently working on my own **Agritech** Project
+- 🔭 I’m currently working as a **Lead Machine Learning Engineer at <a href="https://wobb.ai/" rel="noreferrer" target="_blank">Wobb</a>**
 
 - 🌱 I’m currently learning **PyTorch | QGIS | GeoServer**
 
