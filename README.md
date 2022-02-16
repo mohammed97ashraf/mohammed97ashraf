@@ -50,9 +50,12 @@
 ![Hive](https://img.shields.io/badge/Tools-Hive-informational?style=flat&logo=Hive&logoColor=white&color=2bbc8a)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
+![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
  
- <h3 align="left">GitHub Stats</h3>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed97ashraf&show_icons=true&locale=en&layout=compact" alt="" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed97ashraf&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true&theme=radical" alt="" /></p>
+ <h3 align="left">My GitHub Stats</h3>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed97ashraf&show_icons=true&locale=en" alt="" />
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed97ashraf&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true&theme=radical" alt="" />
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammed97ashraf&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
