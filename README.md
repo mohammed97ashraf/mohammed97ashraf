@@ -11,6 +11,7 @@
 - 📫 How to reach me: **Mohammed97ashraf@gmail.com**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <span align="left">
 <a href="https://www.linkedin.com/in/mohammed-ashraf-a38300162/" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="Mohammed Ashraf's Linkedin" height="30" width="40" /></a>
@@ -32,21 +33,25 @@
 <a href="https://twitter.com/mdashraf333" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="Mohammed Ashraf's Twitter" height="30" width="40" /></a>
 </span>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="45"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="45"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="45" height="50"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="45" height="50"/>
- <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="55" height="45"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
- <img src="https://img.icons8.com/color/480/000000/hadoop-distributed-file-system.png" alt="Hadoop" width="45" height="40"/>
- <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" alt="" width="45" height="40"/>
- <img src="https://res.cloudinary.com/vastia/image/upload/v1631982867/portfolio/TechStack/docker_u8iwmg.png" alt="Docker" width="45" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45" height="40"/>
- </p>
+<h3 align="left">Technologies and Tools:</h3>
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Pandas](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![numpy](https://img.shields.io/badge/Libraries-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![scikit-learn](https://img.shields.io/badge/Libraries-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![Flask](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![Django](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![Mongodb](https://img.shields.io/badge/DataBases-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![Hbase](https://img.shields.io/badge/DataBases-Hbase-informational?style=flat&logo=Apache&logoColor=white&color=2bbc8a)
+![FastAPI](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=2bbc8a)
+![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![Hadoop](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=ApacheHadoop&logoColor=white&color=2bbc8a)
+![Hive](https://img.shields.io/badge/Tools-Hive-informational?style=flat&logo=Hive&logoColor=white&color=2bbc8a)
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
  
  <h3 align="left">GitHub Stats</h3>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed97ashraf&show_icons=true&locale=en&layout=compact" alt="" />
