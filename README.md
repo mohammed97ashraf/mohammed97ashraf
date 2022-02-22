@@ -58,4 +58,4 @@
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed97ashraf&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true&theme=radical" alt="" />
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammed97ashraf&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammed97ashraf&theme=merko&date_format=M%20j%5B%2C%20Y%5D)]
