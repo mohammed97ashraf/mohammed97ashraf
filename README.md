@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Ashraf !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" ><i>A fullStack Data Scientists from India</i></h3>
+<h3 align="center" ><i>A fullStack Data Scientists</i></h3>
 
 
 - 🔭 I’m currently working as a **Lead Machine Learning Engineer at <a href="https://wobb.ai/" rel="noreferrer" target="_blank">Wobb</a>**
