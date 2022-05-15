@@ -18,18 +18,6 @@
 </span>
 
 <span align="left">
-<a href="https://medium.com/@mohammed97ashraf" rel="noreferrer" target="_blank"><img align="center" src="https://miro.medium.com/max/2400/1*cbyNf_R8Ld_ZzKVv07Ezag.jpeg" alt="Mohammed Ashraf's medium" height="30" width="50" /></a>
-</span>
-
-<span align="left">
-<a href="https://www.researchgate.net/profile/Mohammed-Ashraf-19" rel="noreferrer" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/120px-ResearchGate_icon_SVG.svg.png" alt="Mohammed Ashraf's researchgate" height="30" width="40" /></a>
-</span>
-
-<span align="left">
-<a href="https://scholar.google.com/citations?user=RtygOMIAAAAJ&hl=en" rel="noreferrer" target="_blank"><img align="center" src="https://www.socialsciencespace.com/wp-content/uploads/Google-Scholar-Logo.jpg" alt="Mohammed Ashraf's Google Scholar" height="30" width="50" /></a>
-</span>
-
-<span align="left">
 <a href="https://twitter.com/mdashraf333" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="Mohammed Ashraf's Twitter" height="30" width="40" /></a>
 </span>
 
