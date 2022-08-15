@@ -2,9 +2,9 @@
 <h3 align="center" ><i>A fullStack Data Scientists</i></h3>
 
 
-- 🔭 I’m currently working as a **Lead Machine Learning Engineer at <a href="https://wobb.ai/" rel="noreferrer" target="_blank">Wobb</a>**
+- 🔭 I’m currently working on **SaaS Based Sales SOP**
 
-- 🌱 I’m currently learning **PyTorch | QGIS | GeoServer**
+- 🌱 I’m currently learning ** ReactJS | DevOps **
 
 - 💬 Ask me about **Python | Machine Learning | NLP | Web Scraping**
 
