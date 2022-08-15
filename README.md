@@ -1,25 +1,27 @@
-<h1 align="center">Hi,I'm Ashraf !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" ><i>A fullStack Data Scientists</i></h3>
+![logo](mohjammedashraf.png)
+<h1 align="center">Hi 👋, I'm Ashraf</h1>
+<h3 align="center">A passionate Backend Developer and A Data Scientist</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif">
 
 - 🔭 I’m currently working on **SaaS Based Sales SOP**
 
-- 🌱 I’m currently learning ** ReactJS | DevOps **
+- 🌱 I’m currently learning **ReactJS | DevOps**
+
+- 📝 I regularly write articles on [https://medium.com/@mohammed97ashraf](https://medium.com/@mohammed97ashraf)
 
 - 💬 Ask me about **Python | Machine Learning | NLP | Web Scraping**
 
-- 📫 How to reach me: **Mohammed97ashraf@gmail.com**
-
-
+- 📫 How to reach me **Mohammed97ashraf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<span align="left">
-<a href="https://www.linkedin.com/in/mohammed-ashraf-a38300162/" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="Mohammed Ashraf's Linkedin" height="30" width="40" /></a>
-</span>
-
-<span align="left">
-<a href="https://twitter.com/mdashraf333" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="Mohammed Ashraf's Twitter" height="30" width="40" /></a>
-</span>
+<p align="left">
+<a href="https://twitter.com/mdashraf333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdashraf333" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed97ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed97ashraf" height="30" width="40" /></a>
+<a href="https://medium.com/@mohammed97ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammed97ashraf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucnkqs4m9x8igfwilcqr_f5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnkqs4m9x8igfwilcqr_f5w" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mrsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrsoul" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Technologies and Tools:</h3>
 
