@@ -44,8 +44,8 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
  
  <h3 align="left">My GitHub Stats</h3>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed97ashraf&show_icons=true&locale=en" alt="" />
+ <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed97ashraf&theme=react&line_height=40&hide=css" alt="" />
  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed97ashraf&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true&theme=radical" alt="" />
+ <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed97ashraf&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true&theme=radical" alt="" />
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammed97ashraf&theme=merko&date_format=M%20j%5B%2C%20Y%5D)]
