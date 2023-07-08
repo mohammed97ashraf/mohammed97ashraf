@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **SaaS Based Sales SOP**
 
-- 🌱 I’m currently learning **ReactJS | DevOps**
+- 🌱 I’m currently learning **Generative ai | Large language model**
 
 - 📝 I regularly write articles on [https://medium.com/@mohammed97ashraf](https://medium.com/@mohammed97ashraf)
 
-- 💬 Ask me about **Python | Machine Learning | NLP | Web Scraping**
+- 💬 Ask me about **Python | Machine Learning | NLP | Large language model**
 
 - 📫 How to reach me **Mohammed97ashraf@gmail.com**
 
