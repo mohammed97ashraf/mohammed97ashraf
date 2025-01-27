@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://twitter.com/mdashraf333" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/mohammed97ashraf" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/mohammed97ashraf" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn-0077B5&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@mohammed97ashraf" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.hackerrank.com/mrsoul" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC86A?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
