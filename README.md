@@ -15,7 +15,7 @@
 
 - 🔭 **Currently Building:** Cutting-edge **Generative AI Applications** and intelligent **AI Agents** to solve real-world problems.
 - 🌱 **Always Learning:** Diving deep into **Advanced Generative AI Techniques**, exploring new models, and pushing the boundaries of what's possible.
-- ✍️ **Sharing Knowledge:**  Writing articles on [Medium](https://medium.com/@mohammed97ashraf) about **Generative AI, NLP, and the future of AI**.  Say hi!
+- ✍️ **Sharing Knowledge:**  Writing articles on [Medium](https://medium.com/@mohammed97ashraf) about **Generative AI, NLP, and the future of AI**.
 - 💬 **Let's Talk About:** **Python, Machine Learning, Generative AI, NLP, Backend Development, and anything tech!**
 - 📫 **Get in Touch:**  Reach me at **Mohammed97ashraf@gmail.com**
 
