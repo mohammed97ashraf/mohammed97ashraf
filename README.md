@@ -86,7 +86,7 @@
 
 ---
 🏆 **GitHub Trophies:**
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed97ashraf" alt="mohammed97ashraf" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed97ashraf&theme=dracula" alt="mohammed97ashraf" /></a> </p>
 
 ---
 <p align="left"> Visitor Count: <img src="https://komarev.com/ghpvc/?username=mohammed97ashraf&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" /> </p>
