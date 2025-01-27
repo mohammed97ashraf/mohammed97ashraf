@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6eda95eb.gif" width="30"/>
   <h1>Hey there 👋, I'm Mohammed Ashraf</h1>
 </div>
-<h3 align="center">Crafting Intelligent Solutions with Machine Learning, Backend Engineering, and Generative AI</h3>
+<h3 align="center">Innovating with Machine Learning, Generative AI, and Python Full Stack for Intelligent Applications</h3>
 <h4 align="center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="25" /> Passionate Developer | AI Enthusiast | Problem Solver </h4>
 
 
