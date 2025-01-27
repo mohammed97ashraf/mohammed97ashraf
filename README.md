@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ashraf</h1>
-<h3 align="center">A Passionate Backend Developer and Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Ashraf</h1>
+<h3 align="center">A Passionate Machine Learning, Backend, and Generative AI Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc5amY3Y3JtYWdwOWl6M25hMGkyaWN1ZTc5cmJzY3RvbXR6N2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
@@ -55,3 +55,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed97ashraf&theme=react&line_height=40&hide=css" alt="Top Languages" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed97ashraf&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed97ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed97ashraf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed97ashraf" alt="mohammed97ashraf" /></a> </p>
+
+---
+
